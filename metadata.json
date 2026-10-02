@@ -1,0 +1,8 @@
+{
+  "name": "NEWME Phoenix Marketcity Pune",
+  "description": "Discover NEWME at Phoenix Marketcity Pune. Explore trend-led women's fashion, discover new collections and book a store visit or styling appointment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
